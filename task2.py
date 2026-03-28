@@ -1,5 +1,5 @@
 file = open("students.csv", "r")
-
+ 
 lines = file.readlines()
 
 for line in lines:  
