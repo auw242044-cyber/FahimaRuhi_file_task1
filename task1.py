@@ -1,4 +1,4 @@
-# Part A
+# Part A 
 file = open("student info.txt", "w")
 
 file.write("C12\n")
